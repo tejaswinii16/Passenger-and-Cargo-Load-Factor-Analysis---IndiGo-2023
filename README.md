@@ -12,7 +12,6 @@ In the competitive airline industry, understanding and optimizing operational ef
 # Project Structure
 The repository is structured as follows:
 
-a. data/: Contains the raw and processed datasets used in the analysis.
-b. ipynb file/: Includes Python scripts for data cleaning, preparation, and analysis.
-c. visualizations/: Holds generated plots and charts that visualize the findings.
-
+a. data: Contains the raw and processed datasets used in the analysis.
+b. ipynb file: Includes Python scripts for data cleaning, preparation, and analysis.
+c. visualizations: Holds generated plots and charts that visualize the findings.
