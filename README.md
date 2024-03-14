@@ -1,6 +1,4 @@
 # Passenger-and-Cargo-Load-Factor-Analysis-IndiGo-2023
-To provide an analytical framework that can be utilized to assess and enhance airline operational efficiency. 
-
 This project is dedicated to exploring the dynamic world of airline operational efficiency through a detailed analysis of passenger and cargo load factors over the months of 2023. By diving deep into these metrics, we aim to uncover seasonal trends and provide actionable insights for airlines to optimize their operations and enhance customer satisfaction.
 
 # About This Project
